@@ -1,0 +1,1 @@
+﻿positionForPages[313]={page:313,positions:[{word:"0630807-1-EN",left:0.891022,top:0.948156,width:0.063696,height:0.010229}]};
